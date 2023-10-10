@@ -12,7 +12,9 @@ and check_guess(guess) function to adjust the user input and check if the letter
 is capsulate the information in a neater and clearer OOP design.
 
 As for Mile_stone_4 code gets a bit complex as it uses the class hangman to iterate certain value and setting needed for the 
-hangman game. Such as  num_lives to count the user remaining lives, adjust num_letters remiang in word_guessed. 
+hangman game. Such as  num_lives to count the user remaining lives, adjust num_letters remiang in word_guessed.
+
+Mile_stone_5 code is the improved version of the last milestone by adding another function  play_game, which allows a user to play the game. 
 ## Installations instruction:
 correctly in the person of making the scripts, so there is nothing to install at this point.
 ## Usage instructions:
