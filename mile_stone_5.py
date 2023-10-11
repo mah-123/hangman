@@ -1,8 +1,5 @@
 from random import choice
 
-#list of words used for the guessing game
-list_of_word = ["apple", "banana", "kiwi", "lychee", "mango"]
-
 class hangman:
     '''
     The class hangman contains parameters word_list, num_list and num_lives
@@ -62,7 +59,7 @@ class hangman:
             self.list_of_guesses.append(guess)
 
 
-
+#  function that would start the game and initialise the hangman class
 def play_game(word_list):
     num_lives = 5
     game = hangman(word_list, num_lives)
@@ -77,5 +74,7 @@ def play_game(word_list):
             print("Congratulations. You won the game!")
             break
 
-
-play_game(list_of_word)
+if __name__ == "__main__":
+    #list of words used for the guessing game
+    list_of_word = ["apple", "banana", "kiwi", "lychee", "mango"]
+    play_game(list_of_word)
