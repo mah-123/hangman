@@ -15,11 +15,22 @@ randomly generate a word and ask for user input with conditional statement by pr
 
 ## Installations instruction:
 # To install and use this repo:
-- On a terminal with VScode or Gitbash (for window users) use the comammd Git clone with the following 
+- On a terminal with VScode or Gitbash (for window users) use the comammd Git clone with the following https://github.com/mah-123/hangman.git
+- Git clone https://github.com/mah-123/hangman.git
 ![image](https://github.com/mah-123/hangman/assets/94872644/29b8d309-56a8-42dd-99a2-6f558d949f12)
+![image](https://github.com/mah-123/hangman/assets/94872644/304ffdbb-a358-4343-b7dc-0e1e65433b44)
+- Ensure that you save to a local file (easy access), run python or python3 milestone_5.py (depending on the OS) to play the game.
+- Alternatively, you can use VScode or different IDE software package to run the milestone_5.py scripts. 
 
 
 ## Usage instructions:
 Simply game where a user inputs a word to be guessed and try to make sure the the Hangman is not formed each time you guess a letter, else the person would lose the game.
 ## File structure:
+* README.md
+* milestone_2.py
+* milestone_3.py
+* milestone_4.py
+* milestone_5.py
+* hangman directory: containing a template.
 ## Lincense information
+No Licenses are required for this repo.
