@@ -14,6 +14,10 @@ randomly generate a word and ask for user input with conditional statement by pr
 * mile_stone5: code is the improved version of the last milestone by adding another function  play_game, which allows a user to play the game. 
 
 ## Installations instruction:
+# To install and use this repo:
+- On a terminal with VScode or Gitbash (for window users) use the comammd Git clone with the following 
+![image](https://github.com/mah-123/hangman/assets/94872644/29b8d309-56a8-42dd-99a2-6f558d949f12)
+
 
 ## Usage instructions:
 Simply game where a user inputs a word to be guessed and try to make sure the the Hangman is not formed each time you guess a letter, else the person would lose the game.
